@@ -36,11 +36,10 @@ react-native run-android
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.instagram.com/4eversoon/"><img src="https://avatars.githubusercontent.com/u/66516038?v=4" width="100px;" alt=""/><br /><sub><b>Ermesson Lima</b></sub></a><br /><a href="https://github.com/ermessonlima/Luby-Test" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.instagram.com/4eversoon/"><img src="https://avatars.githubusercontent.com/u/66516038?v=4" width="100px;" alt=""/><br /><sub><b>Everson</b></sub></a><br /><a href="https://github.com/Eversonv4" title="Code">💻</a></td>
   </tr>
 </table>
 
 
 
 
-"# Luby-Test" 
