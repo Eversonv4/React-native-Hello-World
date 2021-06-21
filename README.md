@@ -16,7 +16,7 @@ Is an example React Native project developed.
 To install this example application, run the following commands:
 
 ```bash
-git clone ...
+git clone https://github.com/Eversonv4/React-native-Hello-World.git
 cd React-native-Hello-World
 npm install
 ```
